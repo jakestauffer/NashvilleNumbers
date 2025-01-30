@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/bin/Debug/net8.0
+/obj
+/src/NashvilleNumbers/obj
+/tests/NashvilleNumbers.Tests/obj
+/src/NashvilleNumbers/bin/Debug/net8.0
+/tests/NashvilleNumbers.Tests/bin/Debug/net8.0
